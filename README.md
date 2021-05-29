@@ -31,11 +31,38 @@ Through this project I've leraned about the basics of Object-Oriented-Programmin
 - Add 4 basic Levels with DirectHit, FinalFour, GoodNight and WideEasy classes.
 - Multiple Levels with GenericLevel class.
 - Add new game management classes such as GameEnvironment, GameFlow and GameLevel.
+- Add WinScreen and LooseScreen classes.
 
 #### Java I/O: Reading and Writing Files
-- High-scores, level-specification files - Allow creating levels using .txt files.
+- Level-specification files - Allow creating levels using .txt files.
 - Keeping highest score by saving it into .txt file.
 - Add an Opening Menu.
-
+- Allow imaged backgrounds.
 
 ###### Menu flow:
+
+![image](https://user-images.githubusercontent.com/72878018/120079895-bea90800-c0be-11eb-91ba-40e8e78224bc.png)
+
+
+## Running the game
+
+1. Install ant on your Linux-based or WSL2 system
+2. Download this repo and extract files.
+3. Open a terminal in the project directory.
+4. Run "ant compile" command.
+5. Then run "ant -Dargs=<path_to_level_file> run" while "<path_to_level_file>" replaced with the file to the level path. You can also run the program withput arguments and the game will be run with default 4 levels.
+
+## Note
+
+To use level-files or to define new kind of blocks, use the files in "ArkanoidGame\resources\definitions" path. You can also edit those files as you wish.
+
+## Language
+
+100% Java.
+
+## IDEs, Writers and Tools
+
+- JetBrains IntelliJ IDEA
+- Notepad++
+- BIUOOP-1.4.jar - a graphic package.
+- CheckStyle - a tool to maintain Java coding conventions.
