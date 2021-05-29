@@ -25,7 +25,7 @@ import java.awt.Color;
 /**
  * The type Game.
  *
- * @author Shlomi Ben-Shushan id: 311408264 <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 3.0
  * @since 2020-05-24
  */

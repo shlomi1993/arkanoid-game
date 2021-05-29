@@ -1,9 +1,0 @@
-I made 3 level_definition files by difficulty: easy, medium and hard (sorry if the level difficulty doesn't really fit it's name).
-Each of them contains 3 levels but of curse it's easy to add more now.
-
-Options to run a game:
-1) without args -- as required, run the game with default level_definition file -- medium_level_definitions.txt.
-2) with numeric args between 1-4 -- run levels as required in ex6 (I kept it).
-3) with path args -- There was confusion about from where to start the path so eventually I defined all paths in the program as starting from the project folder and each time a path had to be inserted (including the definition files), I wrote a full path from project folder. For example, "resources/definitions/level_definitions/hard_level_definitions.txt"
-
-Note: I put the folders "block_definitions" and "block_definitions" in the folder "definitions".

@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The type GameFlow.
  *
- * @author Shlomi Ben-Shushan id: 311408264 <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 2.0
  * @since 2020 -06-12
  */

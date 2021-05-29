@@ -6,7 +6,7 @@ import gamepieces.Block;
 /**
  * The interface HitListener.
  *
- * @author Shlomi Ben-Shushan id: 311408264 <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 1.0
  * @since 2020-05-24
  */

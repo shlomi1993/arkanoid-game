@@ -9,7 +9,7 @@ import java.awt.Color;
 /**
  * The type CountdownAnimation.
  *
- * @author Shlomi Ben-Shushan id: 311408264 <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 1.0
  * @since 2020 -06-12
  */

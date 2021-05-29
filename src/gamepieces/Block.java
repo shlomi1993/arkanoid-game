@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * The type Block.
  *
- * @author Shlomi Ben-Shushan id: 311408264 <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 3.0
  * @since 2020-06-27
  */
