@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * The type SpriteCollection.
  *
- * @author Shlomi Ben-Shushan id: [REDACTED_ID] <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 1.1
  * @since 2020 -04-28
  */

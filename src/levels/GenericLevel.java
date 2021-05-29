@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * The type GenericLevel (level).
  *
- * @author Shlomi Ben-Shushan id: [REDACTED_ID] <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 1.0
  * @since 2020-06-27
  */

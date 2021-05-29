@@ -13,7 +13,7 @@ import java.nio.file.Paths;
 /**
  * The type HighScoresAnimation.
  *
- * @author Shlomi Ben-Shushan id: [REDACTED_ID] <shlomiggl @ gmail.com>
+ * @author Shlomi Ben-Shushan <shlomiggl @ gmail.com>
  * @version 1.0
  * @since 2020-06-27
  */
