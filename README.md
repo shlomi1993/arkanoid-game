@@ -17,7 +17,7 @@ Through this project I've leraned about the basics of Object-Oriented-Programmin
 
 #### Block Removal, Lives and Scores
 
-- Program Block class that inherit Rectangle class.
+- Program Block and Paddle class that inherit Rectangle class.
 - Code Organization Into Packages.
 - Removing Blocks by BlockRemover class.
 - "Killing" the player when all the balls fall from the screen using BallRemover class.
@@ -41,7 +41,7 @@ Through this project I've leraned about the basics of Object-Oriented-Programmin
 
 ###### Menu flow:
 
-![image](https://user-images.githubusercontent.com/72878018/120079895-bea90800-c0be-11eb-91ba-40e8e78224bc.png)
+![image](https://user-images.githubusercontent.com/72878018/120080131-257af100-c0c0-11eb-91b0-f4ddeaa264d9.png)
 
 
 ## Running the game
@@ -52,9 +52,11 @@ Through this project I've leraned about the basics of Object-Oriented-Programmin
 4. Run "ant compile" command.
 5. Then run "ant -Dargs=<path_to_level_file> run" while "<path_to_level_file>" replaced with the file to the level path. You can also run the program withput arguments and the game will be run with default 4 levels.
 
-## Note
+## Notes
 
-To use level-files or to define new kind of blocks, use the files in "ArkanoidGame\resources\definitions" path. You can also edit those files as you wish.
+- To use level-files or to define new kind of blocks, use the files in "ArkanoidGame\resources\definitions" path. You can also edit those files as you wish.
+
+- The game has different difficulty levels that are expressed by ball speed, number of balls at the beginning, and paddle length.
 
 ## Language
 
@@ -66,3 +68,15 @@ To use level-files or to define new kind of blocks, use the files in "ArkanoidGa
 - Notepad++
 - BIUOOP-1.4.jar - a graphic package.
 - CheckStyle - a tool to maintain Java coding conventions.
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/72878018/120080205-7ab70280-c0c0-11eb-9a2a-35dee90a0753.png)
+![image](https://user-images.githubusercontent.com/72878018/120080212-81de1080-c0c0-11eb-80fa-0e0e9a90ccc0.png)
+![image](https://user-images.githubusercontent.com/72878018/120080234-93bfb380-c0c0-11eb-897e-e1493cd6974f.png)
+![image](https://user-images.githubusercontent.com/72878018/120080248-a0440c00-c0c0-11eb-81b9-b23b0a6da9eb.png)
+
+![image](https://user-images.githubusercontent.com/72878018/120080149-3a578480-c0c0-11eb-91f3-d072f970c957.png)
+![image](https://user-images.githubusercontent.com/72878018/120080158-3f1c3880-c0c0-11eb-80e6-7dec4945abbb.png)
+![image](https://user-images.githubusercontent.com/72878018/120080168-43e0ec80-c0c0-11eb-846f-fb5dffe2ce1d.png)
+![image](https://user-images.githubusercontent.com/72878018/120080172-47747380-c0c0-11eb-8c0a-9d74f913acd8.png)
