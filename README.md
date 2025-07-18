@@ -1,4 +1,4 @@
-# ArkanoidGame
+# Arkanoid Game
 
 My project as part of the Intro to Object Oriented Programming course at Bar-Ilan University (1st year).
 
