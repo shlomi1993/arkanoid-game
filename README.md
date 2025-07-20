@@ -1,6 +1,6 @@
 # Arkanoid Game
 
-My project as part of the Intro to Object Oriented Programming course at Bar-Ilan University (1st year).
+This repository contains my project from the Introduction to Object-Oriented Programming course at Bar-Ilan University (first year).
 
 ## Motivation
 
